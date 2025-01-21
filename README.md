@@ -1,2 +1,1 @@
-# rdap-openid-proxy
-APNIC Bugbounty POC by @nvk0x
+## APNIC Bugbounty POC by @nvk0x
